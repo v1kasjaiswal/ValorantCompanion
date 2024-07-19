@@ -16,15 +16,15 @@ Valorant Companion✨ is an Android application designed and developed to provid
 
 Animated Splash Screen |  OnBoarding Screen | Home Screen
 :-------------------------:|:-------------------------: | :-------------------------: 
-<img src="/screenshots/splash_ss.jpg" width=300 />  |  <img src="/screenshots/onboarding_ss.jpg" width=300 /> | <img src="/screenshots/home_ss.jpg" width=300 />
+<img src="/screenshots/splash_ss.jpg" width=280 />  |  <img src="/screenshots/onboarding_ss.jpg" width=280 /> | <img src="/screenshots/home_ss.jpg" width=280 />
 
 Agents Screen | Agent Details Screen | Maps Screen
 :-------------------------:|:-------------------------: | :-------------------------: 
-<img src="/screenshots/agents_ss.jpg" width=240 />  |  <img src="/screenshots/agent_details_ss.jpg" width=240 /> | <img src="/screenshots/maps_ss.jpg" width=240 />
+<img src="/screenshots/agents_ss.jpg" width=280 />  |  <img src="/screenshots/agent_details_ss.jpg" width=280 /> | <img src="/screenshots/maps_ss.jpg" width=280 />
 
 Game Modes Screen | Weapons Screen | Weapon Details Screen
 :-------------------------:|:-------------------------: | :-------------------------: 
-<img src="/screenshots/gamemodes_ss.jpg" width=240 />  |  <img src="/screenshots/weapons_ss.jpg" width=240 /> | <img src="/screenshots/weapon_detail_ss.jpg" width=240 />
+<img src="/screenshots/gamemodes_ss.jpg" width=280 />  |  <img src="/screenshots/weapons_ss.jpg" width=280 /> | <img src="/screenshots/weapon_detail_ss.jpg" width=280 />
 
 ---
 
