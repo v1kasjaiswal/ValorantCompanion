@@ -8,7 +8,11 @@
 #### <div align="center">***- Best Valorant Companion for Beginners 👀***
 </div>
 
-Valorant Companion✨ is an Android application designed and developed to provide players🎮 with comprehensive details on agents, maps, game modes, and weapons. This application is developed using Modern UI-toolkit Jetpack Compose🚀(Kotlin) for android. It makes use of various different libraries📚 and dependencies like Material UI 3, Retrofit, Coil, ReadMoreTextView, Dagger-Hilt, Datastore Preferences, etc. It also has dark and light themes for increasing user experience and overall engagement. 
+<div align="justify">
+  
+Valorant Companion is an Android application designed and developed to provide players with comprehensive details on agents, maps, game modes, and weapons. This application is developed using Modern UI-toolkit Jetpack Compose(Kotlin) for android. It makes use of various different libraries and dependencies like Material UI 3, Retrofit, Coil, ReadMoreTextView, Dagger-Hilt, Datastore Preferences, etc. It also has dark and light themes for increasing user experience and overall engagement. 
+
+</div>
 
 -----
 
